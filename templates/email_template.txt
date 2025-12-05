@@ -1,0 +1,8 @@
+Hi {{company}},
+
+I’m reaching out because I came across your business at {{address}}.
+
+If you’re open to it, I’d love to share how I can help automate some of your workflows.
+
+Best regards,
+Jem

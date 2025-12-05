@@ -1,0 +1,15 @@
+# Sensitive OAuth tokens
+credentials.json
+token.json
+
+# Logs
+sent_log.csv
+
+# Local environment
+__pycache__/
+.env
+*.pyc
+
+# Data files (optional, allow samples)
+data/*.xlsx
+!data/sample_sample_contacts.xlsx
